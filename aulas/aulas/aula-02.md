@@ -1,3 +1,4 @@
+# Diario-de-bordo
 O que já domino
 Criar repositórios no GitHub
 Editar arquivos pela interface web
@@ -6,6 +7,8 @@ Escrever e organizar textos em Markdown
 Fazer commits com mensagens descritivas
 Entender o histórico de alterações
 
+
+# Aulas
 O que falta estudar
 Trabalhar com branches e Pull Requests
 Revisar alterações feitas por outras pessoas
